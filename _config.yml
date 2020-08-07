@@ -1,0 +1,20 @@
+# Setup
+title:               Stephen Murphy
+tagline:             'My portfolio'
+description:         'my description'
+url:                 http://stephendpmurphy.github.io
+baseurl:             /
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Stephen Murphy
+  url:               stephendpmurphy.github.io
+  email:             stephenpdmurphy@msn.com
+
+# Gems
+gems: [jekyll-paginate]
+
+# Custom vars
+version:             1.1.0
